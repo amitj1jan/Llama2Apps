@@ -1,5 +1,5 @@
-torch
-langchain
-chainlit
-transformers
-llama_index
+torch=2.1.1+cu121
+langchain=0.0.338
+chainlit=0.7.603
+transformers=4.35.2
+llama_index=0.9.4
